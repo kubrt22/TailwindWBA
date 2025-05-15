@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
+
 @theme {
     --color-green: #74C69D;
 
-    --font-crimson: "Crimson Text", serif;
+    --font-crimson: "Crimson Text";
+    --font-work-sans: "Work Sans";
 }
