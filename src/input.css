@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+    --color-green: #74C69D;
+
+    --font-crimson: "Crimson Text", serif;
+}
